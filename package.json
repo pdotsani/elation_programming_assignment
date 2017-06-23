@@ -1,0 +1,14 @@
+{
+  "name": "elation_programming_assignment",
+  "version": "1.0.0",
+  "description": "A simple system designed to retrieve the previous 3 lab results of the same lab name and patient. This system was built using Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick San Juan <psj.webdev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
